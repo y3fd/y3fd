@@ -5,14 +5,8 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/y3fd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Automated+Tools+%26+Bots;Python+%26+Modern+Web+Developer;Linux+%26+Network+Infrastructure;Tech+Creator+%40+YouTube" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Automated+Tools+%26+Bots;Python+%26+Modern+Web+Developer;Linux+%26+Network+Infrastructure;Backend+%26+System+Architecture" alt="Typing SVG" />
 </a>
-
-<p align="center">
-  <a href="https://t.me/daryafti_services"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://youtube.com/@DaryaftiYoutube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://instagram.com/daryafti.pcmobile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
 </div>
 
@@ -23,8 +17,8 @@
 - 🚀 Passionate about building automated systems, backend microservices, and high-performance tools.
 - 🛠 Architect of **StrongShop** (All-in-one Web Shop, Telegram Bot & Smart Payment Core).
 - 🐧 Linux power user, server administrator, and automation enthusiast.
-- 📱 Content creator sharing practical tech guides and tutorials.
-- 💬 Ask me about **Python, Linux server deployment, Telegram bots, and web development**.
+- 💡 Focused on clean code, modular architecture, and resilient self-hosted platforms.
+- 💬 Ask me about **Python, Linux server deployment, and web development**.
 
 ---
 
